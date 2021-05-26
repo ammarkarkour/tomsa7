@@ -10,9 +10,8 @@ From the main directory, run:
 - ### `npm start`
 
 This command will pop-up a chrome page that has the app running.
-![tomsa7_example1](https://user-images.githubusercontent.com/43296450/119334282-9a4ec500-bc93-11eb-9566-604f2151d177.png)
-
+![tomsa7_example1](https://user-images.githubusercontent.com/43296450/119734685-0001a380-be84-11eb-9361-ad2fb650f753.png)
 &nbsp; 
 
 ## Example:
-![tomsa7_example2](https://user-images.githubusercontent.com/43296450/119334431-cbc79080-bc93-11eb-833c-83b097e3f380.png)
+![tomsa7_example2](https://user-images.githubusercontent.com/43296450/119734682-ff690d00-be83-11eb-86fa-1cf7ad28b5cc.png)
