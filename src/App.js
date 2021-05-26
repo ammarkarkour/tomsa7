@@ -20,10 +20,9 @@ class MarkdownEditor extends React.Component {
 
   render() {
     return (
-	    <>
         <VStack spacing="10px">
           
-          <HStack spacing="275px">
+          <HStack spacing="400px">
             <Text fontSize="30px" color="black">
               Input
             </Text>
@@ -35,25 +34,26 @@ class MarkdownEditor extends React.Component {
 
           <HStack spacing="50px">
             <Textarea
-              w="300px"
-              h="200px"
+              w="400px"
+              h="300px"
+              borderRadius="10px"
               value={this.state.value}
               onChange={this.handleChange}
-              placeholder="Input please!"
+              placeholder="Write the Markdown code here!"
               size="md"
             />
 
-    	      <Box bg="#68D391" w="300px" h="200px" p={4} color="white">
+    	      <Box w="400px" h="300px" borderRadius="10px" bg="#68D391"  p={4} color="white">
       	      <div
                 className="content"
                 dangerouslySetInnerHTML={this.getRawMarkup()}
       	      />
       		  </Box>
+
           </HStack>
         
         </VStack>
 
-	    </>
     );
   }
 }
