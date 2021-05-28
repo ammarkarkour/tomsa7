@@ -1,5 +1,5 @@
 # Tomsa7
-A simple markdown previewer implemented in [reactjs](https://reactjs.org/) using [chakra-ui](https://chakra-ui.com/) componenets. \
+A simple markdown previewer implemented in [reactjs](https://reactjs.org/) using [chakra-ui](https://chakra-ui.com/) componenets and [remarkable](https://www.npmjs.com/package/remarkable). \
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 &nbsp; 
